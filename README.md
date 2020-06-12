@@ -2,7 +2,7 @@
 intro abc..
 
 ### Machine Learning and Other Advanced Analytics 
-1. a
+1. [Late delivery severity classification (LightGBM/mean encoding)]()
 2. b
 
 ### Micro-projects
