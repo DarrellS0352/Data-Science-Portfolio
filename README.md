@@ -1,21 +1,5 @@
 # Data Science Portfolio
-intro abc..
+Repository containing portfolio of data science projects completed for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
 
 ### Machine Learning and Other Advanced Analytics 
 1. [Late delivery severity classification (LightGBM/mean encoding)](https://github.com/DarrellS0352/Data-Science-Portfolio/blob/master/Late%20Delivery%20Severity%20Classification.ipynb)
-2. b
-
-### Micro-projects
-1. a
-2. b
-
-### Other Python Programming
-#### Data Analysis and Visualization
-1. a
-2. b
-#### Feature Engineering
-1. a
-2. b
-#### Data Wrangling
-1. a
-2. b
