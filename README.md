@@ -3,3 +3,5 @@ Repository containing portfolio of data science projects completed for academic,
 
 ### Machine Learning and Other Advanced Analytics 
 1. [Late delivery severity classification (LightGBM/mean encoding)](https://github.com/DarrellS0352/Data-Science-Portfolio/blob/master/Late%20Delivery%20Severity%20Classification.ipynb)
+
+## NOTE: Portfolio under construction. Will update with more projects as time allows.
